@@ -1,4 +1,4 @@
-# some good sites to refer for design
+# some good design inspiration sites
 
 ### Webdesign
 [Formspree - The form solution for any developer](https://formspree.io/)
